@@ -1,0 +1,5 @@
+﻿  Hangman.cpp
+c:\users\jmorg\desktop\projects\hangman c++\hangman c++\hangman.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\jmorg\desktop\projects\hangman c++\hangman c++\hangman.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\jmorg\desktop\projects\hangman c++\hangman c++\hangman.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hangman c++.vcxproj -> C:\Users\jmorg\Desktop\Projects\Hangman c++\Debug\Hangman c++.exe
